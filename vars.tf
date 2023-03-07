@@ -1,0 +1,3 @@
+variable "docdb" {}
+
+variable "env" {}
